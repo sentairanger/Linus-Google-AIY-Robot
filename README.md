@@ -36,7 +36,7 @@ To get things started here is what I needed to set things up:
 * MicroSD Card
 * Wheels for the motor
 
-Before I had assembled the robot, I had to get things running. So since I already had my Voice Kit assembled, I installed the latest version of Raspbian available from their repositories. I used ![this](https://aiyprojects.withgoogle.com/voice/) link to follow along. After successfully following the instructions, I decided to run the code provided on the microSD card and also ran my own code as well as modifying their `cloudspeech_demo.py` to test out the custom pin headers provided by the Voice Bonnet. Again, I kept the license in tact and added my own lines to indicate when I modified the code and what it does.
+Before I had assembled the robot, I had to get things running. So since I already had my Voice Kit assembled, I installed the latest version of Raspbian available from their repositories. I used [this](https://aiyprojects.withgoogle.com/voice/) link to follow along. After successfully following the instructions, I decided to run the code provided on the microSD card and also ran my own code as well as modifying their `cloudspeech_demo.py` to test out the custom pin headers provided by the Voice Bonnet. Again, I kept the license in tact and added my own lines to indicate when I modified the code and what it does.
 
 ## Running Things
 

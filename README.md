@@ -42,6 +42,11 @@ Before I had assembled the robot, I had to get things running. So since I alread
 
 After successfully running some of the code I had written and modified, I decided to move on to the robot. First test failed because the battery pack wasn't giving the motors enough power. I thought of adding 9V instead of the 6V but that caused one of my L298N modules to malfunction and a capacitor exploded. So instead I lowered the power to 6V again and with new batteries the motors worked. I then assembled the robot and tested things using my voice. The commands I gave the robot were "go forward", "go backward", "go left", and "go right". The robot would move based on the commands I gave it. However, I will be modifying the code to add more precision. Until then, I can declare that the robot ran very well. 
 
+## Say Hello To Linus
+
+Here is Linus 
+
+![Robot](https://github.com/sentairanger/Linus-Google-AIY-Robot/blob/master/IMG_20200912_124341667.jpg)
 
 ## Code Listing
 

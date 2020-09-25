@@ -66,6 +66,10 @@ Here is Linus
 
 * `traffic_light_control.py` is also another modified verson of the demo by Google but this time the LEDs behave like a traffic light and turn on and off based on voice commands.
 
+* `linus_movement.py` makes Linus dance, spin, twirl, move around in a shape and prepares for battle. I plan to use this for my IT Link cosplay.
+
 ## Updates
 
 I will be adding any updates to this section stating which new code has been added as well as any new progress with this project.
+
+* 9/25 update: added the final code for Linus.
